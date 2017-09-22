@@ -1,5 +1,4 @@
 # TestProject
-# TestProject
 Here is the detail of the assignment:
 
 Please develop a webform or MVC web app that has 3 users: MasterUser, User1 and User2 (store those info on SQL or a config file) and three pages: 1- login page 2- welcome page 3- MasterUser's Page
